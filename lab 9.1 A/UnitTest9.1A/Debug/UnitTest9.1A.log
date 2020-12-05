@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest9.1A.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.1\lab 9.1 A\lab 9.1 A\lab 9.1 A.cpp(38,6): warning C4101: kurs: неиспользованная локальная переменная
+     Создается библиотека C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.1\lab 9.1 A\Debug\UnitTest9.1A.lib и объект C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.1\lab 9.1 A\Debug\UnitTest9.1A.exp
+  UnitTest9.1A.vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 9\lab 9.1\lab 9.1 A\Debug\UnitTest9.1A.dll
